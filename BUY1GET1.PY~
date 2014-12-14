@@ -1,0 +1,19 @@
+T=input("")
+for i in xrange(1,T+1):
+	S=raw_input("")
+	sum=0
+	A=[]
+	for j in xrange(0,52):
+		A.append(0)
+	for j in xrange(0,len(S)):
+		if S[j]>='A' and S[j]<='Z':
+			A[ord(S[j])-ord('A')+26]++;
+		else:
+                	A[ord(S[j])-ord('a')]++;
+        for j in xrange(0,52):
+        	if A[j]%2==0:
+                	sum=sum+A[j]/2;
+            	else:
+                	sum=sum+A[j]/2+1;
+        print sum
+        
