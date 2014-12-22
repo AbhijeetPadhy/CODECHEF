@@ -1,0 +1,564 @@
+Ign http://archive.ubuntu.com trusty InRelease
+Ign http://archive.ubuntu.com raring InRelease
+Ign http://in.archive.ubuntu.com trusty InRelease
+Ign http://in.archive.ubuntu.com trusty-updates InRelease
+Ign http://in.archive.ubuntu.com trusty-backports InRelease
+Ign http://security.ubuntu.com trusty-security InRelease
+Ign http://archive.canonical.com trusty InRelease
+Ign http://extras.ubuntu.com trusty InRelease
+Ign http://www.remastersys.com precise InRelease
+Ign file: /home/arise/Downloads/DebianPack InRelease
+Ign http://linux.dropbox.com precise InRelease
+Ign http://linux.dropbox.com trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://archive.getdeb.net trusty-getdeb InRelease
+Ign http://dl.google.com stable InRelease
+Ign http://download.videolan.org  InRelease
+Ign http://deb.opera.com stable InRelease
+Err http://archive.ubuntu.com trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.canonical.com trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://extras.ubuntu.com trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://www.remastersys.com precise Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign file: /home/arise/Downloads/DebianPack Release.gpg
+Err http://linux.dropbox.com precise Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease
+Err http://archive.getdeb.net trusty-getdeb Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://dl.google.com stable Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://download.videolan.org  Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://in.archive.ubuntu.com trusty Release
+Ign http://security.ubuntu.com trusty-security Release
+Ign http://archive.canonical.com trusty Release
+Ign http://extras.ubuntu.com trusty Release
+Ign http://www.remastersys.com precise Release
+Ign file: /home/arise/Downloads/DebianPack Release
+Err http://linux.dropbox.com trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://archive.getdeb.net trusty-getdeb Release
+Ign http://dl.google.com stable Release
+Ign http://ppa.launchpad.net trusty InRelease
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://archive.ubuntu.com trusty Release
+Ign http://in.archive.ubuntu.com trusty-updates Release
+Ign http://in.archive.ubuntu.com trusty-backports Release
+Ign http://security.ubuntu.com trusty-security/universe Sources/DiffIndex
+Ign http://archive.canonical.com trusty/partner i386 Packages/DiffIndex
+Ign http://extras.ubuntu.com trusty/main Sources/DiffIndex
+Ign http://www.remastersys.com precise/main i386 Packages/DiffIndex
+Ign http://linux.dropbox.com precise Release
+Err http://deb.opera.com stable Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://archive.getdeb.net trusty-getdeb/apps i386 Packages/DiffIndex
+Ign http://dl.google.com stable/main i386 Packages/DiffIndex
+Ign http://archive.ubuntu.com raring Release
+Ign http://in.archive.ubuntu.com trusty/universe Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty/multiverse Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty/main Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty/restricted Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty/main i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty/restricted i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty/universe i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty/multiverse i386 Packages/DiffIndex
+Ign http://security.ubuntu.com trusty-security/multiverse Sources/DiffIndex
+Ign http://security.ubuntu.com trusty-security/main Sources/DiffIndex
+Ign http://security.ubuntu.com trusty-security/restricted Sources/DiffIndex
+Ign http://security.ubuntu.com trusty-security/main i386 Packages/DiffIndex
+Ign http://security.ubuntu.com trusty-security/restricted i386 Packages/DiffIndex
+Ign http://security.ubuntu.com trusty-security/universe i386 Packages/DiffIndex
+Ign http://security.ubuntu.com trusty-security/multiverse i386 Packages/DiffIndex
+Ign http://extras.ubuntu.com trusty/main i386 Packages/DiffIndex
+Ign http://linux.dropbox.com trusty Release
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://download.videolan.org  Release
+Ign http://archive.ubuntu.com trusty/main Sources/DiffIndex
+Ign http://archive.ubuntu.com trusty/restricted Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-updates/universe Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-updates/multiverse Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-updates/main Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-updates/restricted Sources/DiffIndex
+Ign http://linux.dropbox.com precise/main i386 Packages/DiffIndex
+Ign http://archive.getdeb.net trusty-getdeb/games i386 Packages/DiffIndex
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty Release.gpg
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://archive.ubuntu.com raring/main i386 Packages/DiffIndex
+Ign http://archive.ubuntu.com raring/restricted i386 Packages/DiffIndex
+Ign http://archive.ubuntu.com raring/universe i386 Packages/DiffIndex
+Ign http://archive.ubuntu.com raring/multiverse i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-updates/main i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-updates/restricted i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-updates/universe i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-updates/multiverse i386 Packages/DiffIndex
+Ign http://linux.dropbox.com trusty/main amd64 Packages/DiffIndex
+Ign http://linux.dropbox.com trusty/main i386 Packages/DiffIndex
+Ign http://deb.opera.com stable Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://in.archive.ubuntu.com trusty-backports/main Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-backports/restricted Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-backports/universe Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-backports/multiverse Sources/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-backports/main i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-backports/restricted i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-backports/universe i386 Packages/DiffIndex
+Ign http://in.archive.ubuntu.com trusty-backports/multiverse i386 Packages/DiffIndex
+Ign http://download.videolan.org  Sources/DiffIndex
+Ign http://download.videolan.org  Packages/DiffIndex
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Ign http://deb.opera.com stable/non-free i386 Packages/DiffIndex
+Err http://extras.ubuntu.com trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Err http://archive.canonical.com trusty/partner Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.canonical.com trusty/partner Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://www.remastersys.com precise/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://www.remastersys.com precise/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://linux.dropbox.com precise/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://linux.dropbox.com precise/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://extras.ubuntu.com trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://extras.ubuntu.com trusty/main Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://extras.ubuntu.com trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/multiverse Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/multiverse Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/restricted Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/restricted Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/universe Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/universe Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/universe Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.canonical.com trusty/partner i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://www.remastersys.com precise/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://linux.dropbox.com trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://linux.dropbox.com trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://linux.dropbox.com precise/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://linux.dropbox.com trusty/main amd64 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Err http://archive.ubuntu.com raring/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/multiverse Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/multiverse Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/restricted Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/restricted Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/universe Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/universe Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com trusty/main Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com trusty/restricted Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://linux.dropbox.com trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/multiverse Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/main Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/restricted Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/restricted i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/universe i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://security.ubuntu.com trusty-security/multiverse i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Err http://archive.getdeb.net trusty-getdeb/apps Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.getdeb.net trusty-getdeb/apps Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.getdeb.net trusty-getdeb/games Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.getdeb.net trusty-getdeb/games Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.getdeb.net trusty-getdeb/apps i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/restricted i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/universe i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.ubuntu.com raring/multiverse i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://archive.getdeb.net trusty-getdeb/games i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://dl.google.com stable/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://dl.google.com stable/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Err file: /home/arise/Downloads/DebianPack// i386 Packages
+  File not found
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Err http://dl.google.com stable/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://download.videolan.org  Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://download.videolan.org  Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://deb.opera.com stable/non-free Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Ign file: /home/arise/Downloads/DebianPack// Translation-en_US
+Ign file: /home/arise/Downloads/DebianPack// Translation-en
+Err http://deb.opera.com stable/non-free Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://download.videolan.org  Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://download.videolan.org  Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://deb.opera.com stable/non-free i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Ign http://ppa.launchpad.net trusty/main i386 Packages/DiffIndex
+Err http://in.archive.ubuntu.com trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/multiverse Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/multiverse Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/restricted Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/restricted Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/universe Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/universe Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/multiverse Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/multiverse Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/restricted Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/restricted Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/universe Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/universe Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/multiverse Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/multiverse Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/restricted Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/restricted Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/universe Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/universe Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/universe Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/multiverse Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/main Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/restricted Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/restricted i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/universe i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty/multiverse i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/universe Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/multiverse Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/main Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/restricted Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/restricted i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/universe i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-updates/multiverse i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/main Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/restricted Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/universe Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/multiverse Sources
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/restricted i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/universe i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://in.archive.ubuntu.com trusty-backports/multiverse i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en_US
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main Translation-en
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  Cannot initiate the connection to 172.16.0.4:3128 (172.16.0.4). - connect (101: Network is unreachable)

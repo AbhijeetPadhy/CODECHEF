@@ -1,43 +1,35 @@
 #include<stdio.h>
 
-
-int scan(){
-int t=0;
-char c;
-c=getchar_unlocked();
-while(c<'0' || c>'9')
-c=getchar_unlocked();
-while(c>='0' && c<='9'){
-t=(t<<3)+(t<<1)+c-'0';
-c=getchar_unlocked();
-}
-return(t);
-}
-
-
-
-void quicksort(long long int x[],int first,int last);
+void quicksort(int x[],int first,int last);
 
 int main()
 {
-	long long int T,i,N[1000000],j;
-	scanf("%lld",&T);
-	for(i=0;i<T;i++)
-	{
-		N[i]=scan();
-	}
-	quicksort(N,0,T-1);
-	for(i=0;i<T;i++)
-	{
-		printf("%lld\n",N[i]);
-	}
-	return 0;
+    int T,N,A[100],B[100],i,j,k,max,t;
+    scanf("%d",&T);
+    for(i=0;i<T;i++)
+    {
+        scanf("%d",&N);
+        for(j=0;j<N;j++)
+            scanf("%d",&A[j]);
+        for(j=0;j<N;j++)
+            scanf("%d",&B[j]);
+        quicksort(A,0,N-1);
+        quicksort(B,0,N-1);
+        for(j=0,t=0,max=0,k=0;j<N;j++)
+        {
+            t++;
+            for(;B[k]<=A[j];k++,t--);
+            if(max<t)max=t;
+        }
+        printf("%d\n",max);
+    }
+    return 0;
 }
 
-void quicksort(long long int x[],int first,int last)
+void quicksort(int x[],int first,int last)
 {
     int pivot,j,i;
-    long long temp;
+    int temp;
 
      if(first<last)
      {
@@ -67,5 +59,3 @@ void quicksort(long long int x[],int first,int last)
 
     }
 }
-
-
